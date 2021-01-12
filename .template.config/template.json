@@ -1,0 +1,12 @@
+{
+    "author": "Jose Javier Columbie",
+    "classifications": ["XAF"],
+    "name": "XAF ALL Platforms Template",
+    "identity": "XAF.All",
+    "shortName": "xafall",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "XAFUnifiedProject",
+    "preferNameDirectory": "true"
+  }
